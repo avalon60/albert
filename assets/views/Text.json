@@ -1,0 +1,9 @@
+{
+       "All": ["text_button_disabled", "text_button_disabled",
+               "dropdown_text", "entry_placeholder_text",
+               "text", "text_disabled", "text_button_disabled"],
+       "Button": ["text_button_disabled"],
+     "ComboBox": ["dropdown_text"],
+        "Entry": ["entry_placeholder_text"],
+         "Text": ["text", "text_disabled", "text_button_disabled"]
+}

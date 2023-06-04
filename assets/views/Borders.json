@@ -1,0 +1,9 @@
+{
+          "All": ["frame_border", "button_border", "checkbox_border", "entry_border", "progressbar_border", "combobox_border"],
+        "Frame": ["frame_border" ], 
+       "Button": ["button_border"],
+     "CheckBox": ["checkbox_border"],
+        "Entry": ["entry_border"],
+  "ProgressBar": ["progressbar_border"],
+   "OptionMenu": ["combobox_border"]
+}

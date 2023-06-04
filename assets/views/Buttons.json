@@ -1,0 +1,14 @@
+{
+       "All": ["button", "button_hover", "button_border", "text_button_disabled",
+               "checkbox_border", "checkmark",
+               "combobox_button_hover", "dropdown_color", "dropdown_hover", "dropdown_text",
+               "slider", "slider_progress", "slider_button", "slider_button_hover",
+               "switch", "switch_progress", "switch_button", "switch_button_hover",
+               "optionmenu_button", "optionmenu_button_hover", "combobox_border"],
+       "Button": ["button", "button_hover", "button_border", "text_button_disabled"],
+     "CheckBox": ["checkbox_border", "checkmark"],
+     "ComboBox": ["combobox_button_hover", "dropdown_color", "dropdown_hover", "dropdown_text"],
+       "Slider": ["slider", "slider_progress", "slider_button", "slider_button_hover"],
+       "Switch": ["switch", "switch_progress", "switch_button", "switch_button_hover"],
+   "OptionMenu": ["optionmenu_button", "optionmenu_button_hover", "combobox_border"]
+}
